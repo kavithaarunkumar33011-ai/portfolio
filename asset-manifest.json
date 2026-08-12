@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.da21c9bc.css",
-    "main.js": "/Portfolio/static/js/main.12520ffe.js",
-    "static/js/453.19004afe.chunk.js": "/Portfolio/static/js/453.19004afe.chunk.js",
+    "main.css": "/Portfolio/static/css/main.a59e28a7.css",
+    "main.js": "/Portfolio/static/js/main.51510554.js",
+    "static/js/453.34e7f53c.chunk.js": "/Portfolio/static/js/453.34e7f53c.chunk.js",
+    "static/media/sripadmajewellery.png": "/Portfolio/static/media/sripadmajewellery.042e924be44b6e180714.png",
+    "static/media/NithwinEngineering.png": "/Portfolio/static/media/NithwinEngineering.d75cc33561d7e6ec455a.png",
     "static/media/weatherapp.png": "/Portfolio/static/media/weatherapp.e9b79cd98860e6aaefc0.png",
+    "static/media/stockvision.png": "/Portfolio/static/media/stockvision.ff4672b2f056d4ca9ddc.png",
     "static/media/myimage.jpeg": "/Portfolio/static/media/myimage.9d99a9b0b5f43a629727.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.da21c9bc.css.map": "/Portfolio/static/css/main.da21c9bc.css.map",
-    "main.12520ffe.js.map": "/Portfolio/static/js/main.12520ffe.js.map",
-    "453.19004afe.chunk.js.map": "/Portfolio/static/js/453.19004afe.chunk.js.map"
+    "main.a59e28a7.css.map": "/Portfolio/static/css/main.a59e28a7.css.map",
+    "main.51510554.js.map": "/Portfolio/static/js/main.51510554.js.map",
+    "453.34e7f53c.chunk.js.map": "/Portfolio/static/js/453.34e7f53c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da21c9bc.css",
-    "static/js/main.12520ffe.js"
+    "static/css/main.a59e28a7.css",
+    "static/js/main.51510554.js"
   ]
 }
