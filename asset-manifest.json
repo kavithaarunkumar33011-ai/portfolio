@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.811ff3e7.css",
-    "main.js": "/portfolio/static/js/main.59db1517.js",
+    "main.css": "/portfolio/static/css/main.5006c9ee.css",
+    "main.js": "/portfolio/static/js/main.4205de1f.js",
     "static/js/453.34e7f53c.chunk.js": "/portfolio/static/js/453.34e7f53c.chunk.js",
     "static/media/sripadmajewellery.png": "/portfolio/static/media/sripadmajewellery.042e924be44b6e180714.png",
     "static/media/NithwinEngineering.png": "/portfolio/static/media/NithwinEngineering.d75cc33561d7e6ec455a.png",
@@ -9,12 +9,12 @@
     "static/media/stockvision.png": "/portfolio/static/media/stockvision.ff4672b2f056d4ca9ddc.png",
     "static/media/myimage.jpeg": "/portfolio/static/media/myimage.9d99a9b0b5f43a629727.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.811ff3e7.css.map": "/portfolio/static/css/main.811ff3e7.css.map",
-    "main.59db1517.js.map": "/portfolio/static/js/main.59db1517.js.map",
+    "main.5006c9ee.css.map": "/portfolio/static/css/main.5006c9ee.css.map",
+    "main.4205de1f.js.map": "/portfolio/static/js/main.4205de1f.js.map",
     "453.34e7f53c.chunk.js.map": "/portfolio/static/js/453.34e7f53c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.811ff3e7.css",
-    "static/js/main.59db1517.js"
+    "static/css/main.5006c9ee.css",
+    "static/js/main.4205de1f.js"
   ]
 }
