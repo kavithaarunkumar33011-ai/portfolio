@@ -1,0 +1,154 @@
+.about-section {
+  position: relative;
+  padding: 6rem 0 5rem;
+  background: #0a0e1a;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.section-header h2 {
+  font-size: 4rem;
+  color: #fff;
+}
+
+.section-header h2 span {
+  background: linear-gradient(90deg, #0d6efd, #8b5cf6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.header-line {
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, #0d6efd, #8b5cf6);
+  margin: 0.8rem auto 0;
+  border-radius: 2px;
+}
+
+.about-content {
+  margin: 0;
+  padding: 0 3rem;
+}
+
+.about-img {
+  display: flex;
+  justify-content: center;
+}
+
+.about-img img {
+  width: 280px;
+  height: 280px;
+  max-width: 100%;
+  border-radius: 20px;
+  border: 3px solid;
+  border-image: linear-gradient(90deg, #0d6efd, #8b5cf6) 1;
+  box-shadow: 0 0 30px rgba(139, 92, 246, 0.3);
+}
+
+.about-text {
+  min-width: 0;
+}
+
+.about-text h3 {
+  font-size: 2.5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.about-text p {
+  font-size: 1.8rem;
+  color: #ccc;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  overflow-wrap: anywhere;
+}
+
+.about-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem 4rem;
+  margin: 2rem 0;
+  color: #ccc;
+}
+
+.about-info > div {
+  min-width: 0;
+  flex: 1 1 220px;
+}
+
+.btn-outline {
+  display: inline-block;
+  border: 2px solid #8b5cf6;
+  color: #8b5cf6;
+  font-size: 1.6rem;
+  padding: 10px 26px;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+.btn-outline:hover {
+  background: #8b5cf6;
+  color: white;
+}
+
+@media (max-width: 991.98px) {
+  .about-section {
+    padding: 6rem 1.5rem 5rem;
+  }
+
+  .about-content {
+    padding: 0;
+  }
+
+  .about-text {
+    text-align: center;
+  }
+
+  .about-info {
+    text-align: left;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .about-section {
+    min-height: auto;
+    padding: 5rem 1rem 4rem;
+  }
+
+  .section-header {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-header h2 {
+    font-size: 2.8rem;
+  }
+
+  .about-img img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .about-text h3 {
+    font-size: 2.2rem;
+  }
+
+  .about-text p {
+    font-size: 1.5rem;
+  }
+
+  .about-info {
+    display: block;
+    text-align: left;
+  }
+
+  .about-info p {
+    margin-bottom: 1rem;
+  }
+}

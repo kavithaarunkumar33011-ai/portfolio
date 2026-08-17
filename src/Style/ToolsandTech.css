@@ -1,0 +1,60 @@
+.tools-section {
+  padding: 6rem 3rem;
+  margin-top: 0;
+  background: #0f172a;
+  overflow: hidden;
+}
+
+.tools-grid {
+  margin-top: 3rem;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.tool-card {
+  background: #252b3b;
+  padding: 1.5rem 1rem;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s ease, background 0.3s ease;
+  cursor: pointer;
+  min-width: 0;
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);
+  background: #2f374a;
+}
+
+.tool-icon {
+  font-size: 3rem;
+  margin-bottom: 0.8rem;
+  display: flex;
+  justify-content: center;
+}
+
+.tool-card p {
+  color: #e2e8f0;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 575.98px) {
+  .tools-section {
+    padding: 5rem 1rem;
+  }
+
+  .tool-card {
+    padding: 1.2rem 0.5rem;
+  }
+
+  .tool-card p {
+    font-size: 1.5rem;
+  }
+
+  .tool-icon {
+    font-size: 2.6rem;
+  }
+}
