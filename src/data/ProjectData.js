@@ -34,7 +34,7 @@ const ProjectData = [
         
         imageUrl: sripadmajewelleryImg, // portfolio screenshot
         projectUrl: "http://jewellery-ui.vercel.app", // live link
-        githubUrl: "https://github.com/kavithaarunkumar33011-ai/padmajewellery" // frontend repo link
+        githubUrl: "https://github.com/kavithaarunkumar33011-ai/jewellery-ui" // frontend repo link
     },
     {
         id: 4,
