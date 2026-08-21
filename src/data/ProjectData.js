@@ -33,7 +33,7 @@ const ProjectData = [
         techStack: "React.js, Bootstrap, Java, Spring Boot, Spring Security, REST API, Oracle SQL/PLSQL, Razorpay Integration, Git",
         
         imageUrl: sripadmajewelleryImg, // portfolio screenshot
-        projectUrl: "https://kavithaarunkumar33011-ai.github.io/padmajewellery/", // live link
+        projectUrl: "http://jewellery-ui.vercel.app", // live link
         githubUrl: "https://github.com/kavithaarunkumar33011-ai/padmajewellery" // frontend repo link
     },
     {
