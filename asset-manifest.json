@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5006c9ee.css",
-    "main.js": "/portfolio/static/js/main.4b934222.js",
+    "main.js": "/portfolio/static/js/main.8cc5eb7d.js",
     "static/js/453.34e7f53c.chunk.js": "/portfolio/static/js/453.34e7f53c.chunk.js",
     "static/media/varshatechnologies.png": "/portfolio/static/media/varshatechnologies.1c55a8fb1d40687abb0e.png",
     "static/media/naveenautocomponents.png": "/portfolio/static/media/naveenautocomponents.402d227bdbcde6ffc40b.png",
@@ -11,11 +11,11 @@
     "static/media/myimage.jpeg": "/portfolio/static/media/myimage.9d99a9b0b5f43a629727.jpeg",
     "index.html": "/portfolio/index.html",
     "main.5006c9ee.css.map": "/portfolio/static/css/main.5006c9ee.css.map",
-    "main.4b934222.js.map": "/portfolio/static/js/main.4b934222.js.map",
+    "main.8cc5eb7d.js.map": "/portfolio/static/js/main.8cc5eb7d.js.map",
     "453.34e7f53c.chunk.js.map": "/portfolio/static/js/453.34e7f53c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5006c9ee.css",
-    "static/js/main.4b934222.js"
+    "static/js/main.8cc5eb7d.js"
   ]
 }
