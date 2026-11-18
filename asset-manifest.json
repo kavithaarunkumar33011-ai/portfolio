@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5006c9ee.css",
-    "main.js": "/portfolio/static/js/main.8b6b08d1.js",
+    "main.js": "/portfolio/static/js/main.4b934222.js",
     "static/js/453.34e7f53c.chunk.js": "/portfolio/static/js/453.34e7f53c.chunk.js",
+    "static/media/varshatechnologies.png": "/portfolio/static/media/varshatechnologies.1c55a8fb1d40687abb0e.png",
+    "static/media/naveenautocomponents.png": "/portfolio/static/media/naveenautocomponents.402d227bdbcde6ffc40b.png",
     "static/media/sripadmajewellery.png": "/portfolio/static/media/sripadmajewellery.042e924be44b6e180714.png",
     "static/media/NithwinEngineering.png": "/portfolio/static/media/NithwinEngineering.d75cc33561d7e6ec455a.png",
-    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.e9b79cd98860e6aaefc0.png",
     "static/media/stockvision.png": "/portfolio/static/media/stockvision.ff4672b2f056d4ca9ddc.png",
     "static/media/myimage.jpeg": "/portfolio/static/media/myimage.9d99a9b0b5f43a629727.jpeg",
     "index.html": "/portfolio/index.html",
     "main.5006c9ee.css.map": "/portfolio/static/css/main.5006c9ee.css.map",
-    "main.8b6b08d1.js.map": "/portfolio/static/js/main.8b6b08d1.js.map",
+    "main.4b934222.js.map": "/portfolio/static/js/main.4b934222.js.map",
     "453.34e7f53c.chunk.js.map": "/portfolio/static/js/453.34e7f53c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5006c9ee.css",
-    "static/js/main.8b6b08d1.js"
+    "static/js/main.4b934222.js"
   ]
 }
